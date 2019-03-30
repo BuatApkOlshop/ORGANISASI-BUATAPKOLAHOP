@@ -1,0 +1,13 @@
+"login": "group-facebook",
+    "id": 48804514,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ4ODA0NTE0",
+    "url": "https://api.github.com/orgs/group-facebook",
+    "repos_url": "https://api.github.com/orgs/group-facebook/repos",
+    "events_url": "https://api.github.com/orgs/group-facebook/events",
+    "hooks_url": "https://api.github.com/orgs/group-facebook/hooks",
+    "issues_url": "https://api.github.com/orgs/group-facebook/issues",
+    "members_url": "https://api.github.com/orgs/group-facebook/members{/member}",
+    "public_members_url": "https://api.github.com/orgs/group-facebook/public_members{/member}",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/48804514?v=4",
+    "description": "Gabung bersama kami di Group Facebook Group PUBLIC"
+  },
