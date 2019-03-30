@@ -1,0 +1,12 @@
+  
+    #login": "BlbliOlshop",
+    "url": "https://api.github.com/orgs/BlbliOlshop",
+    "repos_url": "https://api.github.com/orgs/BlbliOlshop/repos",
+    "events_url": "https://api.github.com/orgs/BlbliOlshop/events",
+    "hooks_url": "https://api.github.com/orgs/BlbliOlshop/hooks",
+    "issues_url": "https://api.github.com/orgs/BlbliOlshop/issues",
+    "members_url": "https://api.github.com/orgs/BlbliOlshop/members{/member}",
+    "public_members_url": "https://api.github.com/orgs/BlbliOlshop/public_members{/member}",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/46821235?v=4",
+    "description": "Download aplikasi Dan Buat Bisnismu semakin nyaya. Dan bangun bisnis bersama kami."
+  },
